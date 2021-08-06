@@ -1,13 +1,11 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is some code from a blog on how to create barcode labels. Hopefully this is useful
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version ruby 2.7.3
 
-* System dependencies
+* Raile 6.1.4
 
 * Configuration
 
